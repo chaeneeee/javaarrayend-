@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.choongang.M_GetElementsAfterTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2024-04-09T01:29:13" hostname="BOOK-LCCUUB9T5H" time="0.016">
+  <properties/>
+  <testcase name="차례대로 [4, 5, 6, 7, 8, 9], 3을(를) 입력받은 경우, [7, 8, 9]을(를) 리턴해야 합니다" classname="com.choongang.M_GetElementsAfterTest" time="0.014"/>
+  <testcase name="차례대로 [4], 0을(를) 입력받은 경우, [4]을(를) 리턴해야 합니다" classname="com.choongang.M_GetElementsAfterTest" time="0.001"/>
+  <testcase name="빈 배열을 입력받은 경우, 빈 배열을 리턴해야 합니다" classname="com.choongang.M_GetElementsAfterTest" time="0.0"/>
+  <testcase name="차례대로 [4], 11을(를) 입력받은 경우, 빈 배열을 리턴해야 합니다" classname="com.choongang.M_GetElementsAfterTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
